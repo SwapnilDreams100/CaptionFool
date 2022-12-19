@@ -3,6 +3,8 @@
 Code repository for the MLsec project: 
 CaptionFool: Fooling Image Captioning Models
 
+Download this data folder: https://drive.google.com/drive/folders/1q6E8K4NvLSY-wb8G5vIKhQxAn1aCKQIe?usp=sharing
+
 Installation: 
 ```
 git clone https://github.com/salesforce/LAVIS.git
